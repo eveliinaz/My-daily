@@ -1,0 +1,7 @@
+{
+  "name": "my-daily-reminders",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "triggers": {"crons": ["* * * * *"]},
+  "d1_databases": [{"binding":"DB","database_name":"my-daily-reminders","database_id":"REPLACE_WITH_DATABASE_ID"}]
+}
