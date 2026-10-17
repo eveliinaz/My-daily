@@ -1,4 +1,4 @@
-# My Daily v3 — Task suggestions + push notification setup
+# My Daily v3 - Task suggestions + push notification setup
 
 ## Part A: update your existing GitHub Pages app (quick)
 
