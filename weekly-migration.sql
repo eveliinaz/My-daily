@@ -1,0 +1,1 @@
+ALTER TABLE tasks ADD COLUMN weekdays TEXT NOT NULL DEFAULT '[]';
